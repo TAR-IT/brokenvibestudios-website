@@ -1,4 +1,4 @@
-# brokenvibestudios
+# Broken Vibe Studios website
 Portfolio website project for an independent producer and music teacher.
 ## UX
 No user experience requirements have been set yet.
