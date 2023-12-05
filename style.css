@@ -1,0 +1,128 @@
+/* ------------------ FONTS & VARIABLES------------------ */
+
+@font-face {
+  font-family: '';
+  src: url('../font/');
+  src: url('../font/') format('embedded-opentype'),
+       url('../font/') format('woff2'),
+       url('../font/') format('woff'),
+       url('../font/')  format('truetype'),
+       url('../font/') format('svg');
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --color-grey: #333333;
+  --color-blue: #63add2;
+  --color-pink: #d1adcf;
+  --font-family: '', Arial, sans-serif;
+  font-size: +25px;
+  font-family: var(--font-family);
+  list-style-type: none;
+}
+
+/* ------------------ GLOBAL VIEW ------------------ */
+
+a:link {
+  color: var(--color-white);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+body {
+  background-color: var(--color-white);
+  color: var(--color-black);
+  display: flex;
+}
+
+#sidebar {
+  background-color: var(--color-pink);
+  width: 40%;
+  height: 100vh;
+  top: 0;
+  position: sticky;
+  padding: 3rem;
+}
+
+.sidebar_margin {
+  margin: 0px 0px 20px 0px;
+}
+
+.logo {
+  background-image: url(../images/logo_black.png);
+  background-position: center;
+  background-size: 250px;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 200px;
+  text-indent: -999999px;
+}
+
+#contact ul {
+ display: flex;
+ flex-direction: row;
+}
+
+#instagram {
+  background-image: url(../images/instagram.png);
+  width: 33%;
+}
+
+#tiktok {
+  background-image: url(../images/tiktok.png);
+  width: 33%;
+}
+
+#facebook {
+  background-image: url(../images/facebook.png);
+  width: 33%;
+}
+
+.icon {
+  background-position: center;
+  background-size: 30px;
+  background-repeat: no-repeat;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  text-indent: -999999px;
+}
+
+#content{
+ height: 3000px; /* cause scroll */
+ flex-grow: 1;
+ padding: 1rem;
+}
+
+#content figure img {
+  width: 600px;
+  height: 316px;
+}
+
+.header {
+  color: var(--color-blue);
+  padding: 10px;
+  margin: 100px 0px 50px 0px;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+footer {
+  background-color: var(--color-white);
+  color: black;
+  margin: 50px 200px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* ------------------ MOBILE VIEW ------------------ */
+
+@media only screen and (device-width: 1280px), /* defines css elements for mobile view */
+only screen and (max-width:1280px) {
+
+}
