@@ -1,47 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-
 <head>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width; initial-scale=1.0;">  
-  <script src="script.js"></script>
-  <link rel="stylesheet" href="style.css">
-  <title>Broken Vibe Studio</title>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Broken Vibe Studios</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
 
-  <nav id="sidebar">
-    <h1 class="logo">Broken Vibe Studio</li></h1> 
-    <div id="navigation" class="sidebar_margin">
-      <ul>
-        <li><a href="#about">About Us</a></li>
-        <li><a href="#gallery">Gallery</a></li>
-      </ul>
-    </div>
-    <div id="contact">
-      <ul>
-        <li class="icon" id="instagram"><a href="https://www.instagram.com/">Instagram</a></li>
-        <li class="icon" id="tiktok"><a href="https://www.youtube.com/">YouTube</a></li>
-        <li class="icon" id="facebook"><a href="https://www.twitter.com/">Twitter</a></li>
-      </ul>
-    </div>
-  </nav>
- 
-  <main id="content">
+    <header class="bg-dark text-white text-center py-5">
+        <h1 class="display-4">Broken Vibe Studios</h1>
+        <p class="lead">Music & Music Lessons in Rodgau</p>
+    </header>
 
-    <section>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="studio.html">Studio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="lessons.html">Lessons</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="container mt-5">
+        <h2 class="text-center mb-4">About Me</h2>
+        <p class="lead text-center">Welcome to my musical world. With a passion for music and a commitment to
+            excellence, I strive to create captivating melodies and provide top-notch music education.</p>
     </section>
 
-    <footer>
+    <section class="container mt-5">
+        <h2 class="text-center mb-4">Music</h2>
+        <p class="lead text-center">Explore my latest compositions and recordings. Each piece is crafted with care to
+            evoke emotions and captivate listeners.</p>
+        <!-- Add music player or links to your tracks here -->
+    </section>
+
+    <section class="container mt-5">
+        <h2 class="text-center mb-4">Music Lessons</h2>
+        <p class="lead text-center">Unlock your musical potential with personalized lessons. Whether you're a beginner
+            or an advanced player, I offer tailored instruction to help you achieve your goals.</p>
+        <!-- Include information about lesson offerings, schedule, and contact for more details -->
+    </section>
+
+    <section class="container mt-5 mb-5">
+        <h2 class="text-center mb-4">Contact Me</h2>
+        <p class="lead text-center">Let's connect! Feel free to reach out for collaborations, lessons, or just to say
+            hello.</p>
+        <!-- Include a contact form or provide email and social media links -->
+    </section>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2023 Broken Vibe Studios | All Rights Reserved</p>
     </footer>
 
-  </main>
-
- </body>
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
 
 </html>
