@@ -1,5 +1,5 @@
-# Broken Vibe Studios website
-Portfolio website project for an independent producer and music teacher.
+# Broken Vibe Studios - official website
+Official portfolio website for Broken Vibe Studios from Rodgau.
 ## UX
 No user experience requirements have been set yet.
 ### User Stories
@@ -11,10 +11,10 @@ No explicit features have been requested/deployed.
 ## Technologies Used
 - [HTML](https://www.w3.org/)
     - The project uses **HTML** to create the page.
-
+- [Boootstrap] (https://getbootstrap.com/)
+	- The project uses the **Bootstrap** framework for styles mainly.
 - [CSS](https://www.w3.org/)
-    - The project uses **CSS** to style the page.
-
+    - The project uses custom **CSS** in addition to Bootstrap.
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - The project uses **JavaScript** to manipulate the DOM.
 ## Testing
@@ -24,11 +24,7 @@ To be done.
 ## Installation
 1. Clone the repository.
 2. Open index.html in your web browser of choice.
-## Credits
-No credits needed.
 ### Content
 To be done.
 ### Media
-To be done.
-### Acknowledgements
 To be done.
