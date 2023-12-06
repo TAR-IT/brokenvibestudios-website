@@ -40,3 +40,12 @@
     background-color: var(--secondary-color);
     border-color: var(--primary-color);
   }
+
+  header {
+    background-image: url('img/logo.png')!important; /* Replace with the path to your image */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #000000; /* Text color on top of the image */
+    height: 200px!important;
+  }
