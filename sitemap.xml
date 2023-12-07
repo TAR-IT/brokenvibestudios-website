@@ -2,7 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://brokenvibestudios.com</loc>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://brokenvibestudios.com/studio</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://brokenvibestudios.com/unterricht</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://brokenvibestudios.com/kontakt</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+        <url>
+        <loc>https://brokenvibestudios.com/impressum</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+        <url>
+        <loc>https://brokenvibestudios.com/datenschutz</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
     </url>
 </urlset>
