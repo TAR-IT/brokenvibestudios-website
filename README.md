@@ -11,7 +11,7 @@ No explicit features have been requested/deployed.
 ## Technologies Used
 - [HTML](https://www.w3.org/)
     - The project uses **HTML** to create the page.
-- [Boootstrap] (https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 	- The project uses the **Bootstrap** framework for styles mainly.
 - [CSS](https://www.w3.org/)
     - The project uses custom **CSS** in addition to Bootstrap.
