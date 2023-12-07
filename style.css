@@ -41,11 +41,6 @@
     border-color: var(--primary-color);
   }
 
-  header {
-    background-image: url('img/logo.png')!important; /* Replace with the path to your image */
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: #000000; /* Text color on top of the image */
-    height: 200px!important;
-  }
+  .header-title {
+    margin-top: 50px; /* Adjust the margin as needed to position the title below the background image */
+}
