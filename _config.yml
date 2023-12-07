@@ -1,17 +1,24 @@
 defaults:
   -
     scope:
-      path: "en"
+      path: ""
+      type: "pages"
     values:
+      layout: "default"
       lang: "en"
-  -
-    scope:
-      path: "de"
-    values:
-      lang: "de"
 
 languages:
   en:
     description: "Broken Vibe Studios in Rodgau, Germany"
+    lang: "en"
   de:
     description: "Broken Vibe Studios in Rodgau, Deutschland"
+    lang: "de"
+
+collections:
+  en:
+    output: true
+    permalink: /en/:path/
+  de:
+    output: true
+    permalink: /de/:path/
