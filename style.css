@@ -1,7 +1,7 @@
 /* CUSTOM CSS ADDING TO BOOTSTRAP */
-
+/* --------------------------------- VARIABLES --------------------------------- */
 :root {
-    /* Colors */
+    /* COLOR VARIABLES */
     --primary-color: #000000;
     --secondary-color: #ffffff;
     --success-color: #28a745;
@@ -12,20 +12,23 @@
     --dark-color: #343a40;
     --white-color: #ffffff;
   
-    /* Typography */
+    /* TYPOGRAPHY VARIABLES */
     --base-font-family: 'Arial', sans-serif;
     --base-font-size: 16px;
   
-    /* Spacing */
+    /* SPACING VARIABLES */
     --base-spacing: 8px;
     --container-max-width: 1140px; /* Bootstrap default container width */
   }
   
-  /* Apply your custom variables to Bootstrap components */
+/* --------------------------------- FONTS --------------------------------- */
+
   body {
     font-family: var(--base-font-family);
     font-size: var(--base-font-size);
   }
+
+/* --------------------------------- CUSTOM STYLES --------------------------------- */
 
   .bg-dark {
     background-color: var(--primary-color)!important;
@@ -35,12 +38,11 @@
     max-width: var(--container-max-width);
   }
   
-  /* Override Bootstrap button color with custom variable */
   .btn-primary {
     background-color: var(--secondary-color);
     border-color: var(--primary-color);
   }
 
   .header-title {
-    margin-top: 50px; /* Adjust the margin as needed to position the title below the background image */
+    margin-top: 50px;
 }
