@@ -2,15 +2,17 @@
 /* --------------------------------- VARIABLES --------------------------------- */
 :root {
     /* COLOR VARIABLES */
-    --primary-color: #000000;
-    --secondary-color: #ffffff;
-    --success-color: #28a745;
-    --danger-color: #dc3545;
-    --warning-color: #ffc107;
-    --info-color: #17a2b8;
-    --light-color: #f8f9fa;
-    --dark-color: #5d6369;
-    --white-color: #ffffff;
+
+    --bs-primary: #000000;
+    --bs-secondary: #ffffff;
+    --bs-success: #28a745;
+    --bs-danger: #dc3545;
+    --bs-warning: #ffc107;
+    --bs-info: #17a2b8;
+    --bs-light: #f8f9fa;
+    --bs-dark: #5d6369;
+    --bs-white: #ffffff;
+    --bs-black: #000000;
     
     /* TYPOGRAPHY VARIABLES */
     --base-font-family: 'Arial', sans-serif;
@@ -31,18 +33,23 @@
 /* --------------------------------- CUSTOM STYLES --------------------------------- */
 
   .bg-dark {
-    background-color: var(--primary-color)!important;
+    background-color: var(--bs-primary)!important;
   }
   
   .container {
     max-width: var(--container-max-width);
   }
   
-  .btn-primary {
-    background-color: var(--secondary-color);
-    border-color: var(--primary-color);
-  }
 
   .header-title {
     margin-top: 50px;
+}
+
+ul li a {
+  padding: 4px;
+}
+
+ul li a:hover {
+  text-decoration: none;
+  outline: solid var(--bs-secondary) 3px;
 }
