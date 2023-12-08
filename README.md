@@ -3,7 +3,7 @@ Official portfolio website for **BROKEN VIBE STUDIOS** - an independent artist f
 
 ## Table of Contents
 1. [Technologies Used](#technologies-used)
-2. [User Experience (UX)](#user-experience-(ux))
+2. [User Experience](#user-experience)
     - [User Stories](#user-stories)
     - [Design Decisions](#design-decisions)
     - [Accessibility](#accessibility)
@@ -25,10 +25,10 @@ Official portfolio website for **BROKEN VIBE STUDIOS** - an independent artist f
 - [GitHub Pages](https://pages.github.com/)
     - **GitHub Pages** is used as the hosting platform via a fork of this repository.
 
-## User Experience (UX)
+## User Experience
 
 ### User Stories
-- As a user, i should be able to switch between languages (en/de) if I want.
+- As a user, i should be able to switch between languages (en/de) if I want, since there are local people looking for music lessons and international people looking for e.g. a producer.
 - As a user, I should be able to find information about the studio and the music lessons seperately depending on what I am looking for on the website.
 - As a user, I should be able to find contact information about the owner of the website via a "Contact" page. This page should contain links to social media-accounts and provide an email address.
 - As a user, I should not be forced to accept cookies. The portfolio website should keep data transfer as low as possible.
