@@ -25,31 +25,36 @@
   
 /* --------------------------------- FONTS --------------------------------- */
 
-  body {
-    font-family: var(--base-font-family);
-    font-size: var(--base-font-size);
-  }
+body {
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+}
 
 /* --------------------------------- CUSTOM STYLES --------------------------------- */
 
-  .bg-dark {
-    background-color: var(--bs-primary)!important;
-  }
-  
-  .container {
-    max-width: var(--container-max-width);
-  }
-  
+html {
+  margin: 0px; /* reset browser default margin */
+  padding: 0px; /* reset browser default padding */
+}
 
-  .header-title {
-    margin-top: 50px;
+.bg-dark {
+  background-color: var(--bs-primary)!important;
+}
+
+.container {
+  max-width: var(--container-max-width);
+}
+
+
+.header-title {
+  margin-top: 50px;
 }
 
 ul li a {
-  padding: 4px;
+padding: 4px;
 }
 
 ul li a:hover {
-  text-decoration: none;
-  outline: solid var(--bs-secondary) 3px;
+text-decoration: none;
+outline: solid var(--bs-secondary) 3px;
 }
