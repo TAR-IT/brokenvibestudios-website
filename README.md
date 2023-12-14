@@ -1,4 +1,4 @@
-# Broken Vibe Studios- - official website
+# Broken Vibe Studios - official website
 Official portfolio website for **Broken Vibe Studios** - an independent studio/artist from germany.
 
 ## Table of Contents
