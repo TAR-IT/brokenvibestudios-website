@@ -1,5 +1,5 @@
-# BROKEN VIBE STUDIOS - official website
-Official portfolio website for **BROKEN VIBE STUDIOS** - an independent artist from germany.
+# Broken Vibe Studios- - official website
+Official portfolio website for **Broken Vibe Studios** - an independent studio/artist from germany.
 
 ## Table of Contents
 1. [Technologies Used](#technologies-used)
@@ -22,8 +22,6 @@ Official portfolio website for **BROKEN VIBE STUDIOS** - an independent artist f
     - The project uses custom **CSS** in addition to Bootstrap.
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - The project uses **JavaScript** to manipulate the DOM.
-- [GitHub Pages](https://pages.github.com/)
-    - **GitHub Pages** is used as the hosting platform via a fork of this repository.
 
 ## User Experience
 
