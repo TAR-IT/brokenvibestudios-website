@@ -11,30 +11,6 @@
     </url>
     
     <url>
-        <loc>https://brokenvibestudios.com/en/studio</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/studio"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/studio"/>
-    </url>
-    
-    <url>
-        <loc>https://brokenvibestudios.com/en/lessons</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/lessons"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/unterricht"/>
-    </url>
-    
-    <url>
-        <loc>https://brokenvibestudios.com/en/contact</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/contact"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/kontakt"/>
-    </url>
-    
-    <url>
         <loc>https://brokenvibestudios.com/en/legal</loc>
         <changefreq>monthly</changefreq>
         <priority>0.4</priority>
@@ -65,30 +41,6 @@
         <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com"/>
         <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de"/>
-    </url>
-    
-    <url>
-        <loc>https://brokenvibestudios.com/de/studio</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/studio"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/studio"/>
-    </url>
-    
-    <url>
-        <loc>https://brokenvibestudios.com/de/unterricht</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/lessons"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/unterricht"/>
-    </url>
-    
-    <url>
-        <loc>https://brokenvibestudios.com/de/kontakt</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/contact"/>
-        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/kontakt"/>
     </url>
     
     <url>

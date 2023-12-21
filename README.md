@@ -28,8 +28,9 @@ Official portfolio website for **Broken Vibe Studios** - an independent studio/a
 ### User Stories
 - As a user, i should be able to switch between languages (en/de) if I want, since there are local people looking for music lessons and international people looking for e.g. a producer.
 - As a user, I should be able to find information about the studio and the music lessons seperately depending on what I am looking for on the website.
-- As a user, I should be able to find contact information about the owner of the website via a "Contact" page. This page should contain links to social media-accounts and provide an email address.
-- As a user, I should not be forced to accept cookies. The portfolio website should keep data transfer as low as possible.
+- As a user, I should be able to find contact information about the owner of the website via a "Contact" section. This section should contain links to social media-accounts and provide an email address.
+- All important information should be available on the index page for me..
+- I should not be forced to accept cookies. The portfolio website should keep data transfer as low as possible.
 
 ### Design Decisions
 To keep the project simple and maintainable for the client himself, no plugins are used. The website contains a "/de" directory for german pages and a "/en" directory for english pages.<br>
