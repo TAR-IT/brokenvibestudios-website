@@ -37,6 +37,10 @@ html {
   padding: 0px; /* reset browser default padding */
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
 .bg-dark {
   background-color: var(--bs-primary)!important;
 }
