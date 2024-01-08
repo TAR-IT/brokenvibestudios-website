@@ -28,12 +28,16 @@
 body {
   font-family: var(--base-font-family);
   font-size: var(--base-font-size);
+  margin: 0px 2vw;
+  padding: 0px 30px;
+  outline: #ffffff solid 2px;
 }
 
 /* --------------------------------- CUSTOM STYLES --------------------------------- */
 
 html {
-  margin: 0px; /* reset browser default margin */
+  background-color: var(--bs-black);
+  margin: 0px 3vw; /* reset browser default margin */
   padding: 0px; /* reset browser default padding */
 }
 
