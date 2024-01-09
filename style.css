@@ -16,33 +16,47 @@
     
     /* TYPOGRAPHY VARIABLES */
     --base-font-family: 'Arial', sans-serif;
-    --base-font-size: 16px;
-  
-    /* SPACING VARIABLES */
-    --base-spacing: 8px;
-    --container-max-width: 1140px; /* Bootstrap default container width */
+    --base-font-size: calc(0.5px + 1.5vw)!important;
   }
   
-/* --------------------------------- FONTS --------------------------------- */
+/* --------------------------------- TYPOGRAPHY --------------------------------- */
 
-body {
-  font-family: var(--base-font-family);
-  font-size: var(--base-font-size);
-  margin: 0px 2vw;
-  padding: 0px 30px;
-  outline: #ffffff solid 2px;
+* {
+  font-family: var(--base-font-family)!important;
+  font-size: var(--base-font-size)!important;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: calc(1rem + 2vw)!important;
+}
+
+h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  font-size: calc(0.5rem + 2vw)!important;
 }
 
 /* --------------------------------- CUSTOM STYLES --------------------------------- */
 
 html {
   background-color: var(--bs-black);
-  margin: 0px 3vw; /* reset browser default margin */
+  margin: 0px; /* reset browser default margin */
   padding: 0px; /* reset browser default padding */
 }
 
-h1, h2, h3, h4, h5, h6 {
-  text-transform: uppercase;
+body {
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  margin: 0px 2vw;
+  padding: 0px 5vw;
+  outline: var(--bs-dark) dotted 2px;
+}
+
+section {
+  margin: 30px 0px;
+  padding: 20px 0px;
+  border-radius: 4vw;
+  box-shadow: 1px 1px 10px var(--bs-light);
 }
 
 .bg-dark {
