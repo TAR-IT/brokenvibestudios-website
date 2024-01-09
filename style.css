@@ -16,6 +16,7 @@
     
     /* TYPOGRAPHY VARIABLES */
     --base-font-family: 'Arial', sans-serif;
+    --base-font-size: calc(1rem + 0.3vw)!important;
   }
   
 /* --------------------------------- TYPOGRAPHY --------------------------------- */
@@ -32,7 +33,7 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   text-transform: uppercase;
-  font-size: calc(0.5rem + 2vw)!important;
+  font-size: calc(2rem + 0.3vw)!important;
 }
 
 /* --------------------------------- CUSTOM STYLES --------------------------------- */
@@ -71,10 +72,18 @@ section {
   margin-top: 50px;
 }
 
+/* Image collage */
+.img-fluid {
+  box-shadow: 0px 0px 15px;
+  border-radius: 4vw;
+}
+
+/* Navigation links header and footer */
 ul li a {
 padding: 4px;
 }
 
+/* Navigation links header and footer (on hover) */
 ul li a:hover {
 text-decoration: none;
 outline: solid var(--bs-secondary) 3px;
