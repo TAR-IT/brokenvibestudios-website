@@ -1,0 +1,114 @@
+/* CUSTOM CSS ADDING TO BOOTSTRAP */
+/* --------------------------------- VARIABLES --------------------------------- */
+:root {
+    /* COLOR VARIABLES */
+
+    --bs-primary: #000000;
+    --bs-secondary: #ffffff;
+    --bs-success: #28a745;
+    --bs-danger: #dc3545;
+    --bs-warning: #ffc107;
+    --bs-info: #17a2b8;
+    --bs-light: #f8f9fa;
+    --bs-dark: #5d6369;
+    --bs-white: #ffffff;
+    --bs-black: #000000;
+    
+    /* TYPOGRAPHY VARIABLES */
+    --base-font-family: 'Arial', sans-serif;
+    --base-font-size: calc(1rem + 0.3vw)!important;
+  }
+  
+/* --------------------------------- TYPOGRAPHY --------------------------------- */
+
+* {
+  font-family: var(--base-font-family)!important;
+  font-size: var(--base-font-size)!important;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: calc(1rem + 2vw)!important;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: calc(0.5rem + 1vw)!important;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: calc(2rem + 0.3vw)!important;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-size: calc(1.3rem + 0.3vw)!important;
+}
+
+h5, h6 {
+  text-transform: uppercase;
+  font-size: calc(1rem + 0.3vw)!important;
+}
+
+/* --------------------------------- CUSTOM STYLES --------------------------------- */
+
+html {
+  background-color: var(--bs-black);
+  margin: 0px; /* reset browser default margin */
+  padding: 0px; /* reset browser default padding */
+}
+
+body {
+  font-family: var(--base-font-family);
+  font-size: var(--base-font-size);
+  margin: 0px 2vw;
+  padding: 0px 5vw;
+  outline: var(--bs-dark) dotted 2px;
+}
+
+section {
+  margin: 30px 0px;
+  padding: 20px 0px;
+  border-radius: 4vw;
+  box-shadow: 1px 1px 10px var(--bs-light);
+}
+
+.bg-dark {
+  background-color: var(--bs-primary)!important;
+}
+
+.container {
+  max-width: var(--container-max-width);
+}
+
+
+.header-title {
+  margin-top: 50px;
+}
+
+.logo-link {
+  display: inline-block; /* Ensures the link only takes up as much width as necessary */
+}
+
+.logo-image {
+  max-width: 100%; /* Makes the image responsive, scaling within its container */
+  height: auto;
+  border-radius: 50%;
+}
+
+/* Image collage */
+.img-fluid {
+  box-shadow: 0px 0px 15px;
+  border-radius: 4vw;
+}
+
+/* Navigation links header and footer */
+ul li a {
+padding: 4px;
+}
+
+/* Navigation links header and footer (on hover) */
+ul li a:hover {
+text-decoration: none;
+outline: solid var(--bs-secondary) 3px;
+}

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- START ENGLISH SITES -->
+    <url>
+        <loc>https://brokenvibestudios.com/</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/studio.png</image:loc>
+            <image:caption>A picture inside the Broken Vibe Studios in Rodgau, Germany</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/stageside.png</image:loc>
+            <image:caption>A picture of Louis on the stage from the side</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/stageback.png</image:loc>
+            <image:caption>A picture of Louis on the stage from the back</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>The official logo of Broken Vibe Studios</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/guitar.png</image:loc>
+            <image:caption>A picture of Louis with a guitar</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/drums.png</image:loc>
+            <image:caption>A picture of Louis on the drums</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/booth.png</image:loc>
+            <image:caption>A picture of the booth inside the Broken Vibe Studios in Rodgau, Germany</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/armscrossed.png</image:loc>
+            <image:caption>A picture of Louis with his arms crossed in the Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://brokenvibestudios.com/en/legal</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/legal"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/impressum"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>The official logo of Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://brokenvibestudios.com/en/privacy</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/privacy"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/datenschutz"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>The official logo of Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://brokenvibestudios.com/404</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/404"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/404"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>The official logo of Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    <!-- END ENGLISH SITES -->
+
+    <!-- START GERMAN SITES -->
+    <url>
+        <loc>https://brokenvibestudios.com/de/</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/studio.png</image:loc>
+            <image:caption>Ein Bild von innen aus den Broken Vibe Studios in Rodgau, Deutschland</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/stageside.png</image:loc>
+            <image:caption>Ein Bild von Louis auf der Bühne von der Seite</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/stageback.png</image:loc>
+            <image:caption>Ein Bild von Louis auf der Bühne von hinten</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>Das offizielle Logo der Broken Vibe Studios</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/guitar.png</image:loc>
+            <image:caption>Ein Bild von Louis mit einer Gitarre</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/drums.png</image:loc>
+            <image:caption>Ein Bild von Louis an den Drums</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/booth.png</image:loc>
+            <image:caption>Ein Bild von der Aufnahmekabine in den Broken Vibe Studios in Rodgau, Deutschland</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/armscrossed.png</image:loc>
+            <image:caption>Ein Bild von Louis mit verschränkten Armen in den Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://brokenvibestudios.com/de/impressum</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/legal"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/impressum"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>Das offizielle Logo der Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://brokenvibestudios.com/de/datenschutz</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/en/privacy"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/datenschutz"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>Das offizielle Logo der Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://brokenvibestudios.com/de/404</loc>
+        <lastmod>2024-01-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.1</priority>
+        <xhtml:link rel="alternate" hreflang="en-us" href="https://brokenvibestudios.com/404"/>
+        <xhtml:link rel="alternate" hreflang="de-de" href="https://brokenvibestudios.com/de/404"/>
+        <image:image>
+            <image:loc>https://brokenvibestudios.com/img/logo.png</image:loc>
+            <image:caption>Das offizielle Logo der Broken Vibe Studios</image:caption>
+        </image:image>
+    </url>
+    <!-- END GERMAN SITES -->
+
+</urlset>
